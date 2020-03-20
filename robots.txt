@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theozooro.vinceklcin.com/sitemap.xml
